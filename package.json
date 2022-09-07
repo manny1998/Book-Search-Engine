@@ -15,10 +15,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manny1998/Book-Search-Engine.git" 
+    "url": "git+https://github.com/manny1998/Book-Search-Engine.git"
   },
   "dependencies": {
     "apollo-server-express": "^3.10.0",
+    "bcrypt": "^5.0.1",
     "concurrently": "^7.3.0",
     "dotenv": "^16.0.1",
     "if-env": "^1.0.4",
